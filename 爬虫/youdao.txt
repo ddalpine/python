@@ -1,1 +1,0 @@
-{"translateResult":[[{"tgt":"免费的","src":"free"}]],"errorCode":0,"type":"en2zh-CHS","smartResult":{"entries":["","adj. 免费的；自由的，不受约束的；[化学] 游离的\r\n","vt. 使自由，解放；释放\r\n","adv. 自由地；免费\r\n"],"type":1}}
